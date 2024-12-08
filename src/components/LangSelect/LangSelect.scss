@@ -1,0 +1,13 @@
+select {
+    background-color: rgb(100, 200, 100);
+    border: unset;
+    padding: 6px;
+    outline: unset;
+    max-width: 400px;
+    border-radius: 4px;
+    color: white;
+}
+
+select > option {
+    background-color: rgb(100, 200, 100);
+}

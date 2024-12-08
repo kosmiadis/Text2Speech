@@ -1,0 +1,12 @@
+textarea {
+    border: unset;
+    resize: none;
+    background-color: rgb(0, 0, 0, 0.08);
+    outline: none;
+    padding: 6px 8px;
+    height: 100px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1rem;
+    border-radius: 4px;
+    box-shadow: 0px 0px 5px rgb(0,0,0,0.2);
+}
